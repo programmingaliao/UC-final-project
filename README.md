@@ -18,16 +18,17 @@
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### Student Name: Ali Alotaibi
 
 
-### Project Name
+### Project Name: Nesait
 
 # Idea
-Problem and solutions if found 
+Problem and solutions if found: To do list and exercise schedule to keep structure in people's daily lives
 
 
-# Future Work 
+# Future Work: 
+Structure in people's daily lives
 
 
 
